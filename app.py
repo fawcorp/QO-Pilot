@@ -1,6 +1,7 @@
-numberfirst=input("Input your number first number please:")
-numbersecond=input("Input your number first number please:")
+numberfirst=2
+numbersecond=1
 sum=numberfirst+numbersecond
 print(numberfirst,"+",numbersecond,"=",sum)
+
 
 
